@@ -1,6 +1,7 @@
 # SDrive Firmware and Soft
 
 hex и eep - файлы прошивки
+
 sdrive.atr - записать в корень SD-карты
 
 Прошивка:
