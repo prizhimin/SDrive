@@ -24,9 +24,9 @@ sdrive.atr - write to the root of the SD card
 
 Firmware:
 
-during the firmware, all dip switches must be at the bottom (open), the SD card is not inserted, 5 volts of power is supplied
+- during the firmware, all dip switches must be at the bottom (open), the SD card is not inserted, 5 volts of power is supplied
 
-to flash in 2 passes: first flash (.hex) and fuses, then eeprom (.eep)
+- to flash in 2 passes: first flash (.hex) and fuses, then eeprom (.eep)
 
 The USBasp programmer with Aliexpress is programmed using avrdude https://github.com/avrdudes/avrdude
 
