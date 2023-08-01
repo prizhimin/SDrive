@@ -30,4 +30,4 @@ Firmware:
 
 The USBasp programmer with Aliexpress is programmed using avrdude https://github.com/avrdudes/avrdude
 
-The command for the firmware of the fzs: avrdude.exe -p m328p -U lfuse:w:0xfe:m -U hfuse:w:0xd8:m efuse:w:0xfc:m -c usbasp
+The command for burn fuzes: avrdude.exe -p m328p -U lfuse:w:0xfe:m -U hfuse:w:0xd8:m efuse:w:0xfc:m -c usbasp
